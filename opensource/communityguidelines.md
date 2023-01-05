@@ -2,6 +2,8 @@ layout: page
 title: Community Guidelines
 permalink: /opensource/communityguidelines
 
+## Community Guidelines
+
 At <acme_corp>, we recognize and celebrate the creativity and collaboration of open source contributors and the diversity of skills, experiences, cultures, and opinions they bring to the projects and communities they participate in.
 
 Every one of <acme_corp>'s open source projects and communities are inclusive environments, based on treating all individuals respectfully, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristic.
