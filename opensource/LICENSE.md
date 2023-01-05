@@ -1,6 +1,6 @@
 layout: page
 title: license
-permalink: /opensource/license
+permalink: /opensource/LICENSE
 
 
                                 Apache License
